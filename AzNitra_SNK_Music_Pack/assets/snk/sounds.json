@@ -1,0 +1,5 @@
+{
+  "attack_on_titan": {"sounds": [{"name": "snk:music/attack_on_titan", "stream": true}]},
+  "you_see_big_girl": {"sounds": [{"name": "snk:music/you_see_big_girl", "stream": true}]},
+  "shinzou_wo_sasageyo": {"sounds": [{"name": "snk:music/shinzou_wo_sasageyo", "stream": true}]}
+}

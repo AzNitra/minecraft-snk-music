@@ -1,0 +1,18 @@
+COMMANDES MUSIQUES SNK
+
+Attack on Titan:
+/playsound snk:attack_on_titan master @a ~ ~ ~ 1 1
+
+You See Big Girl:
+/playsound snk:you_see_big_girl master @a ~ ~ ~ 1 1
+
+Shinzou wo Sasageyo:
+/playsound snk:shinzou_wo_sasageyo master @a ~ ~ ~ 1 1
+
+Arrêter toutes les musiques SNK / sons master :
+/stopsound @a master
+
+Arrêter une piste précise :
+/stopsound @a master snk:attack_on_titan
+/stopsound @a master snk:you_see_big_girl
+/stopsound @a master snk:shinzou_wo_sasageyo
